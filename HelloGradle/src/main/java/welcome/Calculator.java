@@ -5,7 +5,7 @@ public class Calculator {
 	
 	public String NamofCalcualtor()
 	{
-		return "MagicalCalculator  is awesome and and BEAUtiful";
+		return "MagicalCalculator  is awesome and";// rajan resolved the merge conflicts
 	}
 
 	public int add(int a, int b) {
