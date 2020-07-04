@@ -5,7 +5,7 @@ public class Calculator {
 	
 	public String NamofCalcualtor()
 	{
-		return "MagicalCalculator  is awesome";
+		return "MagicalCalculator  is awesome and";
 	}
 
 	public int add(int a, int b) {
