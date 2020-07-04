@@ -1,6 +1,6 @@
 package welcome;
 
-//Added the first comment
+//Added the first comment SC2 applying another changes
 public class Calculator {
 	
 	public String NamofCalcualtor()
