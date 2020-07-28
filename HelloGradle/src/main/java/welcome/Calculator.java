@@ -25,9 +25,10 @@ public class Calculator {
 		System.out.println("multiply ="+a*10);
 	}
 
-	public void multiply()
+	public void multiply(int a, int b)
 	{
 		System.out.println("Multiply");
+		return a*b;
 
 	}
 	
