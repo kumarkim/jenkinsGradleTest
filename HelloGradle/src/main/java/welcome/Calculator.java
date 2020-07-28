@@ -7,6 +7,7 @@ public class Calculator {
 	{
 		return "MagicalCalculator  is awesome and";// rajan resolved the merge conflicts
 		//another resolve
+		//resolve 3
 	}
 
 	public int add(int a, int b) {
@@ -16,6 +17,11 @@ public class Calculator {
 	public int substract(int a , int b) {
 	
 		return b-a;
+	}
+	
+	public void multiply()
+	{
+		System.out.println("Multiply");
 	}
 	
 	
