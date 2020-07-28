@@ -18,5 +18,10 @@ public class Calculator {
 		return b-a;
 	}
 	
+	public void multiply(int a)
+	{
+		System.out.println("multiply ="+a*10);
+	}
+	
 	
 }
