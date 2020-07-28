@@ -24,13 +24,14 @@ public class Calculator {
 	{
 		System.out.println("multiply ="+a*10);
 	}
-
-	public int multiply()
+	
+	
+	public void multiply(int a, int b)
 	{
-		System.out.println("Multiply");
-		return 2*3;
-
-	}
+		System.out
+		println("Multiply");	
+		return a*b;
+} 
 	
 	
 	
